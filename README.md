@@ -15,9 +15,9 @@
 - Modificar este `README.md` con este contenido:
 
 ```markdown
-### Alumno: ...
+### Alumno: Jeremias Ezequiel Gonzalez  
 
-#### Comision: ...
+#### Comision: DWN2AV
 ```
 
 - Subir los archivos `index.html`, `index.js` y `README.md`
